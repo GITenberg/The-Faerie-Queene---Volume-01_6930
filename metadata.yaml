@@ -1,0 +1,30 @@
+_repo: The-Faerie-Queene---Volume-01_6930
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Spenser, Edmund
+    aliases:
+    - Spencer, Edmund
+    - Immerito
+    - Spenser, Edmond
+    birthdate: 1551
+    deathdate: 1599
+    gutenberg_agent_id: '2264'
+    url: http://www.gutenberg.org/2009/agents/2264
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Spenser
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6930'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'PR'
+- !lcsh 'Virtues -- Poetry'
+- !lcsh 'Knights and knighthood -- Poetry'
+- GITenberg
+title: The Faerie Queene — Volume 01
+url: http://www.gutenberg.org/ebooks/6930
